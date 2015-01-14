@@ -1,0 +1,3 @@
+dependencies {
+    compile 'com.nimbusds:nimbus-jose-jwt:3.5'
+}
